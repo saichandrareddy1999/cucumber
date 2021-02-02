@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/ubuntu/Desktop/cucumber/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+22784896.index
+3271003467.index
+931420616.index
+1312457231.index
+3225673660.index
+2660851524.index

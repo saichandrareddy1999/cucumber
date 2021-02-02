@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=/home/ubuntu/Desktop/Assignments/spring/spring-mvc/testng/.git\:/home/ubuntu/Desktop/reference/countryapp-reference/.git\:/home/ubuntu/Desktop/cucumber/ cucumberAllFunctionality/.git\:
+GitRepositoriesView.GitDirectories.relative=/home/ubuntu/Desktop/Assignments/spring/spring-mvc/testng/.git\:/home/ubuntu/Desktop/reference/countryapp-reference/.git\: cucumberAllFunctionality/.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
